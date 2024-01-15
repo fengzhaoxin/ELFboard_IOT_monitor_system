@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "aiot_state_api.h": "c",
+        "aiot_sysdep_api.h": "c",
+        "stat.h": "c",
+        "string.h": "c"
+    }
+}
